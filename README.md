@@ -5,18 +5,17 @@ This project identifies whether two input questions are semantically similar or 
 Features:
 Built using Python, Streamlit, and scikit-learn
 
-Uses text preprocessing, feature engineering, and Bag-of-Words
+Uses text preprocessing, feature engineering,Advance Preprocessing and Bag-of-Words.
 
 Applies a trained Random Forest classifier for prediction
 
 Web app built with Streamlit for interactive user input
 
 Tech Stack:
-scikit-learn
-nltk
-fuzzywuzzy
-Streamlit
-pickle (for model storage)
+,scikit-learn
+,nltk
+,fuzzywuzzy
+,pickle (for model storage)
 
 How It Works:
 User enters two questions.
