@@ -1,4 +1,6 @@
 # NLP_Project
+
+Live Web Link : https://swapnil-nlp-duplicate-question-detector.streamlit.app/
 Duplicate Question Detection using ML  
 This project identifies whether two input questions are semantically similar or duplicates — inspired by the Quora Question Pair challenge.
 
